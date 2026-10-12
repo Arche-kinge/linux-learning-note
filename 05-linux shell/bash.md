@@ -1,0 +1,1 @@
+**Bash 全称**：**Bourne-Again SHell**（GNU Bash），是 Bourne shell（`sh`）的增强版。
