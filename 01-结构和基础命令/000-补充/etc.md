@@ -29,6 +29,9 @@ Linux 根目录 `/` 下的文件夹基本遵循
 | `/run`           | 运行时数据             | 虚拟文件系统，重启清空     | pid、socket、锁文件        |
 | `/lost+found`    | 文件系统修复找回的文件 | 一般不用手动碰             | fsck 恢复的碎片            |
 
+<img src="https://www.runoob.com/wp-content/uploads/2014/06/3c0080b6-df63-44b3-b188-e224455a32.png">
+
+
 下面逐类解释。
 
 
