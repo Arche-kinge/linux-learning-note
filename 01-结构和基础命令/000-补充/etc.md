@@ -3,7 +3,7 @@ Linux 根目录 `/` 下的文件夹基本遵循
 
 它们各有分工，可以按“是否可编辑、是否主机特定、是否只读”来理解。
 
-<img src="https://www.runoob.com/wp-content/uploads/2014/06/3c0080b6-df63-44b3-b188-e224455a32.png">
+![alt text](https://www.runoob.com/wp-content/uploads/2014/06/3c0080b6-df63-44b3-b188-e224455a32.png)
 
 先给一个总览表：
 
